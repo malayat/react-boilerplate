@@ -25,4 +25,5 @@ This contains the simple environment for to build React Applications with Bootst
 5. `gulp build` Generate *dist* forder ready for production
 
 ## Notes
-Please don't update **babelify** package, this package have a [issue](https://github.com/babel/babelify/issues/127) in the version 7.*
+~~Please don't update **babelify** package, this package have a [issue](https://github.com/babel/babelify/issues/127) in the version 7.*~~
+All packages are updated to the last version
