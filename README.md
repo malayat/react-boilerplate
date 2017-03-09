@@ -27,3 +27,8 @@ This contains the simple environment for to build React Applications with Bootst
 ## Notes
 ~~Please don't update **babelify** package, this package have a [issue](https://github.com/babel/babelify/issues/127) in the version 7.*~~
 All packages are updated to the last version
+
+## Update
+Please, instead of this project, you can see this other project more updated:
+
+[Simple Counter App](https://github.com/malayat/counterflux)
